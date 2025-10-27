@@ -1,5 +1,4 @@
 # BetterLists - Remove Retweets from Twitter Lists
-A simple Chrome extension that removes retweets from your Twitter/X lists for a cleaner, more focused feed experience.
 
 ## Features
 - Removes retweets from your entire Twitter/X feed
