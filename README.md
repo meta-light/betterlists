@@ -2,10 +2,10 @@
 A simple Chrome extension that removes retweets from your Twitter/X lists for a cleaner, more focused feed experience.
 
 ## Features
-- 🎯 Removes retweets from your entire Twitter/X feed
-- 🔘 Simple on/off toggle
-- ⚡ Works on home page (pinned lists), list pages, and timelines
-- 🔄 Handles infinite scroll and dynamic content
+- Removes retweets from your entire Twitter/X feed
+- Simple on/off toggle
+- Works on home page (pinned lists), list pages, and timelines
+- Handles infinite scroll and dynamic content
 
 ## Installation
 1. **Download or clone this repository** to your local machine
